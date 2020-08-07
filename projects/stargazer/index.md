@@ -1,6 +1,7 @@
 ---
 title: Stargazer Bot - Setup and Basic Usage - P1x3lc0w
 ---
+
 # Stargazer Bot
 ![header](/assets/Discord_QFqvNFmfVn.png)
 
