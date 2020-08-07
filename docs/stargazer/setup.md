@@ -1,6 +1,7 @@
 ---
 title: Stargazer Bot - Setup and Basic Usage
 ---
+[Home](/)>[Docs](/docs)>[Stargazer Bot](/docs/stargazer)>[Setup and Basic Usage](/docs/stargazer/setup)
 
 # Stargazer Bot - Setup and Basic Usage
 In order to set up the bot, you will need to configure two things: the minimum amount of required stars and the starboard channel

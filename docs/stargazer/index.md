@@ -1,6 +1,7 @@
 ---
 title: Stargazer Bot
 ---
+[Home](/)>[Docs](/docs)>[Stargazer Bot](/docs/stargazer)
 
 # Stargazer Bot Documentation
 
