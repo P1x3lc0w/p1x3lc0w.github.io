@@ -1,8 +1,10 @@
 ---
-title: Stargazer Bot - Setup and Basic Usage
+title: Stargazer Bot - Setup and Basic Usage - P1x3lc0w
 ---
+# Stargazer Bot
 ![header](/assets/Discord_QFqvNFmfVn.png)
-# Stargazer Bot - Setup and Basic Usage
+
+# Setup and Basic Usage
 Stargazer is a Starboard bot for discord it highlights messages in a special channel once they have gained enough reactions. In order to set up the bot, you will need to configure two things: the minimum amount of required stars and the starboard channel
 
 # Minimum Star Requirement
